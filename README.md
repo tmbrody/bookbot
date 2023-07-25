@@ -1,1 +1,1 @@
-# bookbot
+BookBot will generate some statistics from different bodies of text.
